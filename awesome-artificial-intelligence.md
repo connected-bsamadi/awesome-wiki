@@ -88,6 +88,8 @@ A collection of awesome artificial intelligence goodies
  - [TensorFlow Hub](https://www.tensorflow.org/hub/)
  - [TFX](https://www.tensorflow.org/tfx/)
  - [TensorFlow User Contributions](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib)
+ - [TensorFlow Playground](https://playground.tensorflow.org/): Tinker With a Neural Network Right Here in Your Browser.
+Don’t Worry, You Can’t Break It. We Promise.
  
  ### [Keras](https://keras.io/)
  - [Awesome Keras](https://github.com/soumendra/awesome-keras)
