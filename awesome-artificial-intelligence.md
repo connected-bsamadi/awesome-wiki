@@ -4,6 +4,7 @@ A collection of awesome artificial intelligence goodies
 ## Introduction
 - [What can TensorFlow really do?](https://blog.oursky.com/2018/02/14/tensorflow-business-applications-ai-hong-kong/)
 - [The First World Class Overview of AI for the General Public](https://montrealartificialintelligence.com/academy/#The-First-World-Class-Overview-of-AI-for-the-General-Public)
+- [Fast.ai](http://wiki.fast.ai/index.php/Main_Page)
 - [Deep Learning From Scratch: Theory and Implementation](http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/)
 
 ## Courses
@@ -12,7 +13,10 @@ A collection of awesome artificial intelligence goodies
 - [Stanford CS229: Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 - [Python Implementation of Andrew Ng’s Machine Learning Course](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-2-1-1a666f049ad6)
 -   [Colah's Blog - Christopher Olah writes about machine learning](https://colah.github.io/)
-
+- [Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
+- [Machine Learning Tutorials](https://pythonprogramming.net/machine-learning-tutorials/)
+- [Natural Language Processing](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
+- 
 ## Books
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)
   -   [A series of Jupyter notebooks](https://github.com/ageron/handson-ml)
@@ -44,6 +48,9 @@ A collection of awesome artificial intelligence goodies
 
 ## Datasets
 - [Fleet maintenance](https://catalog.data.gov/dataset/fleet-maintenance)
+
+## Research
+- [BAIR](https://bair.berkeley.edu/)
 
 ## Source Code As Data
 - [neural_complete](https://github.com/kootenpv/neural_complete): a neural network trained to help writing neural network code using autocomplete
