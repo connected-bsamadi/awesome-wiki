@@ -63,7 +63,6 @@ A collection of awesome artificial intelligence goodies
 - [BAIR](https://bair.berkeley.edu/)
 
 ## Source Code as Data
-- [neural_complete](https://github.com/kootenpv/neural_complete): a neural network trained to help writing neural network code using autocomplete
 - [awesome machine learning on sourcecode](https://github.com/src-d/awesome-machine-learning-on-source-code)
 - [MAST](https://github.com/mast-group/)
 - [MUSE](https://www.darpa.mil/program/mining-and-understanding-software-enclaves)
@@ -81,7 +80,7 @@ A collection of awesome artificial intelligence goodies
 - [Codot competitors](https://craft.co/codota/competitors)
 - [Software data mining and code recommendation](https://guxd.github.io/)
 - [ai.codes](https://www.ai.codes/)
-- [A neural network trained to help writing neural network code using autocomplete](https://github.com/kootenpv/neural_complete)
+- [neural_complete](https://github.com/kootenpv/neural_complete): a neural network trained to help writing neural network code using autocomplete
 
 ### Sentiment Analysis
 - [Sentiment analysis of commit comments in GitHub: an empirical study](https://dl.acm.org/citation.cfm?id=2597118)
