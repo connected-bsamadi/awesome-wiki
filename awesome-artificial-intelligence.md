@@ -45,6 +45,10 @@ A collection of awesome artificial intelligence goodies
 - [Want people to actually answer your Stack Overflow question? Add a question mark.](https://medium.freecodecamp.org/always-end-your-questions-with-a-stack-overflow-bigquery-and-other-stories-2470ebcda7f)
 - [Catalog of references to StackOverflow questions found in GitHub sources ](https://github.com/sAbakumoff/SoCiting2)
 - [Using Artificial Intelligence to Write Self-Modifying/Improving Programs](http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/)
+
+#### [Abstract Syntax Tree](https://docs.python.org/2/library/ast.html)
+- [MacroPy](https://github.com/lihaoyi/macropy)
+
 #### Code Recommendation
 - [Kite](https://www.youtube.com/watch?v=bF50YPyUKTQ)
 - [Codot competitors](https://craft.co/codota/competitors)
@@ -56,6 +60,9 @@ A collection of awesome artificial intelligence goodies
 #### Sentiment Analysis
 - [Sentiment analysis of commit comments in GitHub: an empirical study](https://dl.acm.org/citation.cfm?id=2597118)
 - [The Emotional Side of Software Developers in JIRA](http://www.dsf.unica.it/~roberto/pubb11_Tonelli_Roberto_rtdaMR_1016_01B1.pdf)
+
+#### Detecting Errors
+- [pyflakes](https://pypi.org/project/pyflakes/)
 
 
 ## Tools
