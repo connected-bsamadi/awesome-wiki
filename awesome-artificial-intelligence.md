@@ -52,6 +52,12 @@ A collection of awesome artificial intelligence goodies
 - [AST on GitHub](https://github.com/topics/abstract-syntax-tree)
 - [MacroPy](https://github.com/lihaoyi/macropy)
 - [typeshed](https://github.com/python/typeshed)
+- [GitHub AST Viewer](https://github.com/lukehorvat/github-ast-viewer)
+
+#### lint
+- [pyflakes](https://pypi.org/project/pyflakes/): checks Python source files for errors
+- [bellybutton](https://github.com/hchasestevens/bellybutton): custom Python linting through AST expressions
+- [vermin](https://github.com/netromdk/vermin): concurrently detect the minimum Python versions needed to run code
 
 #### Code Recommendation
 - [Kite](https://www.youtube.com/watch?v=bF50YPyUKTQ)
@@ -64,11 +70,6 @@ A collection of awesome artificial intelligence goodies
 #### Sentiment Analysis
 - [Sentiment analysis of commit comments in GitHub: an empirical study](https://dl.acm.org/citation.cfm?id=2597118)
 - [The Emotional Side of Software Developers in JIRA](http://www.dsf.unica.it/~roberto/pubb11_Tonelli_Roberto_rtdaMR_1016_01B1.pdf)
-
-#### lint
-- [pyflakes](https://pypi.org/project/pyflakes/): checks Python source files for errors
-- [bellybutton](https://github.com/hchasestevens/bellybutton): custom Python linting through AST expressions
-- [vermin](https://github.com/netromdk/vermin): concurrently detect the minimum Python versions needed to run code
 
 ## Tools
  
