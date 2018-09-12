@@ -53,6 +53,7 @@ A collection of awesome artificial intelligence goodies
 - [MacroPy](https://github.com/lihaoyi/macropy)
 - [typeshed](https://github.com/python/typeshed)
 - [GitHub AST Viewer](https://github.com/lukehorvat/github-ast-viewer)
+- [saplings](https://github.com/shobrook/saplings): library of algorithms and data structures for working with abstract syntax trees
 
 #### lint
 - [pyflakes](https://pypi.org/project/pyflakes/): checks Python source files for errors
