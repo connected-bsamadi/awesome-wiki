@@ -47,7 +47,11 @@ A collection of awesome artificial intelligence goodies
 - [Using Artificial Intelligence to Write Self-Modifying/Improving Programs](http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/)
 
 #### [Abstract Syntax Tree](https://docs.python.org/2/library/ast.html)
+- [Introduction to AST](https://slides.com/kentcdodds/asts-workshop#/)
+- [Awesome AST](https://github.com/chadbrewbaker/awesome-ast)
+- [AST on GitHub](https://github.com/topics/abstract-syntax-tree)
 - [MacroPy](https://github.com/lihaoyi/macropy)
+- [typeshed](https://github.com/python/typeshed)
 
 #### Code Recommendation
 - [Kite](https://www.youtube.com/watch?v=bF50YPyUKTQ)
@@ -61,9 +65,10 @@ A collection of awesome artificial intelligence goodies
 - [Sentiment analysis of commit comments in GitHub: an empirical study](https://dl.acm.org/citation.cfm?id=2597118)
 - [The Emotional Side of Software Developers in JIRA](http://www.dsf.unica.it/~roberto/pubb11_Tonelli_Roberto_rtdaMR_1016_01B1.pdf)
 
-#### Detecting Errors
-- [pyflakes](https://pypi.org/project/pyflakes/)
-
+#### lint
+- [pyflakes](https://pypi.org/project/pyflakes/): checks Python source files for errors
+- [bellybutton](https://github.com/hchasestevens/bellybutton): custom Python linting through AST expressions
+- [vermin](https://github.com/netromdk/vermin): concurrently detect the minimum Python versions needed to run code
 
 ## Tools
  
