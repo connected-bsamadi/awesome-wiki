@@ -3,6 +3,8 @@
 - [Awesome Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
 - [Awesome Google Cloud Platform](https://github.com/tmrts/awesome-google-cloud)
 - [GCP YouTube Channel](https://www.youtube.com/user/googlecloudplatform)
+- [GCP on GitHub](https://github.com/GoogleCloudPlatform)
+- [Google Cloud Codelabs and Challenges](https://codelabs.developers.google.com/cloud)
 
 ## Analytics and Machine Learning
 - [Getting Started](https://cloud.google.com/ml-engine/docs/tensorflow/getting-started-training-prediction)
