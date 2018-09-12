@@ -52,7 +52,7 @@ A collection of awesome artificial intelligence goodies
 ## Research
 - [BAIR](https://bair.berkeley.edu/)
 
-## Source Code As Data
+## Source Code as Data
 - [neural_complete](https://github.com/kootenpv/neural_complete): a neural network trained to help writing neural network code using autocomplete
 - [awesome machine learning on sourcecode](https://github.com/src-d/awesome-machine-learning-on-source-code)
 - [MAST](https://github.com/mast-group/)
