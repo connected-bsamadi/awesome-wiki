@@ -50,6 +50,9 @@ A collection of awesome artificial intelligence goodies
 ### Reinforcement Learning
 - [Dopamine](https://github.com/google/dopamine): a research framework for fast prototyping of reinforcement learning algorithms
 
+### AutoML
+- [Awesome AutoML](https://github.com/hibayesian/awesome-automl-papers)
+
 ## Datasets
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Fleet maintenance](https://catalog.data.gov/dataset/fleet-maintenance)
