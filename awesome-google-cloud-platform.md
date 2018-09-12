@@ -11,6 +11,9 @@
 - [gcloud ml-engine documentation](https://cloud.google.com/sdk/gcloud/reference/ml-engine/)
 - [Cloud AutoML](https://cloud.google.com/automl/)
 
+### Natural Language Processing
+- [Cloud Natural Language API](https://console.cloud.google.com/apis/library/language.googleapis.com)
+
 ## BigQuery
 - [Python Reference](https://googlecloudplatform.github.io/google-cloud-python/latest/bigquery/usage.html)
 - [Kaggle SQL Scavenger Hunt](https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook)
