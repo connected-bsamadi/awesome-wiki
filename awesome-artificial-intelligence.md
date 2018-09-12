@@ -7,6 +7,10 @@ A collection of awesome artificial intelligence goodies
 - [Fast.ai](http://wiki.fast.ai/index.php/Main_Page)
 - [Deep Learning From Scratch: Theory and Implementation](http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/)
 
+## Podcast
+- [Andrew Ng: Influential leader in artificial intelligence](https://behindthetech.libsynpro.com/003-andrew-ng-influential-leader-in-artificial-intelligence)
+- [Integrate.ai](https://www.integrate.ai/podcast/)
+
 ## Courses
 - [Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 - [Coursera: Machine Learning by Andrew Ng](https://www.youtube.com/watch?v=qeHZOdmJvFU&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
