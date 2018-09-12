@@ -12,6 +12,7 @@
 - [Cloud AutoML](https://cloud.google.com/automl/)
 
 ### Natural Language Processing
+- [Google Cloud Natural Language](https://cloud.google.com/natural-language/?hl=en_US&_ga=2.250591430.-1790910342.1536084171)
 - [Cloud Natural Language API](https://console.cloud.google.com/apis/library/language.googleapis.com)
 
 ## BigQuery
