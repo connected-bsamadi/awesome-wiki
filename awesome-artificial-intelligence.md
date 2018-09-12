@@ -49,7 +49,6 @@ A collection of awesome artificial intelligence goodies
 #### Software Metrics
 - [Halstead complexity measures](https://en.wikipedia.org/wiki/Halstead_complexity_measures)
 
-
 #### [Abstract Syntax Tree](https://docs.python.org/2/library/ast.html)
 - [Introduction to AST](https://slides.com/kentcdodds/asts-workshop#/)
 - [Awesome AST](https://github.com/chadbrewbaker/awesome-ast)
@@ -58,6 +57,9 @@ A collection of awesome artificial intelligence goodies
 - [typeshed](https://github.com/python/typeshed)
 - [GitHub AST Viewer](https://github.com/lukehorvat/github-ast-viewer)
 - [saplings](https://github.com/shobrook/saplings): library of algorithms and data structures for working with abstract syntax trees
+- [Conflerge](https://github.com/ishansaksena/Conflerge): resolving conflict merges with ASTs
+- [deast](https://github.com/perey/deast): a Python 3 module to convert an abstract syntax tree (AST) into Python code
+- [horast](https://github.com/mbdevpl/horast): human-oriented abstract syntax tree for Python 3
 
 #### lint
 - [pyflakes](https://pypi.org/project/pyflakes/): checks Python source files for errors
@@ -75,6 +77,9 @@ A collection of awesome artificial intelligence goodies
 #### Sentiment Analysis
 - [Sentiment analysis of commit comments in GitHub: an empirical study](https://dl.acm.org/citation.cfm?id=2597118)
 - [The Emotional Side of Software Developers in JIRA](http://www.dsf.unica.it/~roberto/pubb11_Tonelli_Roberto_rtdaMR_1016_01B1.pdf)
+
+#### Finding similar source codes or programming styles
+- [source code plagiarism detector](https://github.com/alapha23/source_code_plagiarism_detector)
 
 ## Tools
  
