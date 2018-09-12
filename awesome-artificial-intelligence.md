@@ -38,7 +38,6 @@ A collection of awesome artificial intelligence goodies
 - [Machine learning for source code analysis](https://www.youtube.com/watch?v=M_hOn-Ren1M)
 - [Machine Learning for Large Scale Code Analysis](https://sourced.tech/)
   - [Source{d} Engine](https://sourced.tech/engine/)
-- [Measuring code sentiment in a GitHub repository](http://vmarkovtsev.github.io/gophercon-2018-moscow/?utm_content=buffer92ce0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#cover)
 - [Mining software repositories](http://www.msrconf.org/)
 - [Using Deep Learning to Understand Your Source Code](https://medium.com/@jrodthoughts/using-deep-learning-to-understand-your-source-code-28e5c284bfda)
 - [One More Analysis of GitHub and StackOverflow Data with Google BigQuery](https://hackernoon.com/catalog-of-references-to-stackoverflow-questions-found-in-github-sources-134415b97ecb)
@@ -77,6 +76,7 @@ A collection of awesome artificial intelligence goodies
 #### Sentiment Analysis
 - [Sentiment analysis of commit comments in GitHub: an empirical study](https://dl.acm.org/citation.cfm?id=2597118)
 - [The Emotional Side of Software Developers in JIRA](http://www.dsf.unica.it/~roberto/pubb11_Tonelli_Roberto_rtdaMR_1016_01B1.pdf)
+- [Measuring code sentiment in a GitHub repository](http://vmarkovtsev.github.io/gophercon-2018-moscow/?utm_content=buffer92ce0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#cover)
 
 #### Finding similar source codes or programming styles
 - [source code plagiarism detector](https://github.com/alapha23/source_code_plagiarism_detector)
