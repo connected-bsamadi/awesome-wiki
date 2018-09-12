@@ -46,6 +46,10 @@ A collection of awesome artificial intelligence goodies
 - [Catalog of references to StackOverflow questions found in GitHub sources ](https://github.com/sAbakumoff/SoCiting2)
 - [Using Artificial Intelligence to Write Self-Modifying/Improving Programs](http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/)
 
+#### Software Metrics
+- [Halstead complexity measures](https://en.wikipedia.org/wiki/Halstead_complexity_measures)
+
+
 #### [Abstract Syntax Tree](https://docs.python.org/2/library/ast.html)
 - [Introduction to AST](https://slides.com/kentcdodds/asts-workshop#/)
 - [Awesome AST](https://github.com/chadbrewbaker/awesome-ast)
