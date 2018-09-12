@@ -70,9 +70,7 @@ A collection of awesome artificial intelligence goodies
 - [Machine learning for source code analysis](https://www.youtube.com/watch?v=M_hOn-Ren1M)
 - [Machine Learning for Large Scale Code Analysis](https://sourced.tech/)
 - [Measuring code sentiment in a GitHub repository](http://vmarkovtsev.github.io/gophercon-2018-moscow/?utm_content=buffer92ce0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#cover)
-- [Sentiment analysis of commit comments in GitHub: an empirical study](https://dl.acm.org/citation.cfm?id=2597118)
 - [Mining software repositories](http://www.msrconf.org/)
-- [The Emotional Side of Software Developers in JIRA](http://www.dsf.unica.it/~roberto/pubb11_Tonelli_Roberto_rtdaMR_1016_01B1.pdf)
 - [Using Deep Learning to Understand Your Source Code](https://medium.com/@jrodthoughts/using-deep-learning-to-understand-your-source-code-28e5c284bfda)
 - [One More Analysis of GitHub and StackOverflow Data with Google BigQuery](https://hackernoon.com/catalog-of-references-to-stackoverflow-questions-found-in-github-sources-134415b97ecb)
 - [Want people to actually answer your Stack Overflow question? Add a question mark.](https://medium.freecodecamp.org/always-end-your-questions-with-a-stack-overflow-bigquery-and-other-stories-2470ebcda7f)
@@ -84,3 +82,7 @@ A collection of awesome artificial intelligence goodies
 - [Software data mining and code recommendation](https://guxd.github.io/)
 - [ai.codes](https://www.ai.codes/)
 - [A neural network trained to help writing neural network code using autocomplete](https://github.com/kootenpv/neural_complete)
+
+### Sentiment Analysis
+- [Sentiment analysis of commit comments in GitHub: an empirical study](https://dl.acm.org/citation.cfm?id=2597118)
+- [The Emotional Side of Software Developers in JIRA](http://www.dsf.unica.it/~roberto/pubb11_Tonelli_Roberto_rtdaMR_1016_01B1.pdf)
