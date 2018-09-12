@@ -6,6 +6,7 @@
 ## Analytics and Machine Learning
 - [Getting Started](https://cloud.google.com/ml-engine/docs/tensorflow/getting-started-training-prediction)
 - [gcloud ml-engine documentation](https://cloud.google.com/sdk/gcloud/reference/ml-engine/)
+- [Cloud AutoML](https://cloud.google.com/automl/)
 
 ## BigQuery
 - [Python Reference](https://googlecloudplatform.github.io/google-cloud-python/latest/bigquery/usage.html)
