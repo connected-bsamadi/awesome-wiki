@@ -52,6 +52,7 @@ A collection of awesome artificial intelligence goodies
 
 ### AutoML
 - [Awesome AutoML](https://github.com/hibayesian/awesome-automl-papers)
+- [Auto-sklearn](https://www.kdnuggets.com/2016/08/winning-automl-challenge-auto-sklearn.html)
 
 ## Datasets
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
