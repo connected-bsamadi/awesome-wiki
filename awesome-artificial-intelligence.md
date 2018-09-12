@@ -112,8 +112,12 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Auto-sklearn](https://www.kdnuggets.com/2016/08/winning-automl-challenge-auto-sklearn.html)
 
 ## Datasets
+- [Google BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/)
+- [Datasets publicly available on Google BigQuery](https://www.reddit.com/r/bigquery/wiki/datasets)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Fleet maintenance](https://catalog.data.gov/dataset/fleet-maintenance)
+- [Google Genomics Public Dataset](https://cloud.google.com/genomics/docs/public-datasets/)
+- [Google Sample Datasets](https://cloud.google.com/bigquery/sample-tables)
 
 
 ## Research
