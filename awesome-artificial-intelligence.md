@@ -82,7 +82,7 @@ A collection of awesome artificial intelligence goodies
 - [source code plagiarism detector](https://github.com/alapha23/source_code_plagiarism_detector)
 
 ## Tools
- 
+
  ### [TensorFlow](https://www.tensorflow.org/)
  - [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
  - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
@@ -96,6 +96,10 @@ Don’t Worry, You Can’t Break It. We Promise.
  - [Awesome Keras](https://github.com/soumendra/awesome-keras)
  - [Keras Resources](https://github.com/fchollet/keras-resources)
 
+### [Google Colab]
+ - [How to run object detection and segmentation on video fast for free](https://www.dlology.com/blog/how-to-run-object-detection-and-segmentation-on-video-fast-for-free/)
+ - [Quick guide to run TensorBoard in Google Colab](https://www.dlology.com/blog/quick-guide-to-run-tensorboard-in-google-colab/)
+ 
 ### [XGBoost](https://xgboost.ai/)
 - [An End-to-End Guide to Understand the Math behind XGBoost](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)
 
