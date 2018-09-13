@@ -84,6 +84,7 @@ A collection of awesome artificial intelligence goodies
 ## Tools
  
  ### [TensorFlow](https://www.tensorflow.org/)
+ - [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
  - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
  - [TensorFlow Hub](https://www.tensorflow.org/hub/)
  - [TFX](https://www.tensorflow.org/tfx/)
