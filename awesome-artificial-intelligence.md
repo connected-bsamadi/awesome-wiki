@@ -116,6 +116,9 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Awesome AutoML](https://github.com/hibayesian/awesome-automl-papers)
 - [Auto-sklearn](https://www.kdnuggets.com/2016/08/winning-automl-challenge-auto-sklearn.html)
 
+## Platforms
+- [FloydHub](https://www.floydhub.com/)
+
 ## Datasets
 - [Google BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/)
 - [Datasets publicly available on Google BigQuery](https://www.reddit.com/r/bigquery/wiki/datasets)
