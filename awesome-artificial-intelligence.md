@@ -96,7 +96,7 @@ Don’t Worry, You Can’t Break It. We Promise.
  - [Awesome Keras](https://github.com/soumendra/awesome-keras)
  - [Keras Resources](https://github.com/fchollet/keras-resources)
 
-### [Google Colab]
+### [Google Colab](https://colab.research.google.com/)
  - [How to run object detection and segmentation on video fast for free](https://www.dlology.com/blog/how-to-run-object-detection-and-segmentation-on-video-fast-for-free/)
  - [Quick guide to run TensorBoard in Google Colab](https://www.dlology.com/blog/quick-guide-to-run-tensorboard-in-google-colab/)
  
