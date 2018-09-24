@@ -20,6 +20,7 @@ A collection of awesome artificial intelligence goodies
 - [Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
 - [Machine Learning Tutorials](https://pythonprogramming.net/machine-learning-tutorials/)
 - [Natural Language Processing](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
+- [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
 
 ## Books
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)
