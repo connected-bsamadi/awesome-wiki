@@ -46,6 +46,7 @@ A collection of awesome artificial intelligence goodies
 - [Want people to actually answer your Stack Overflow question? Add a question mark.](https://medium.freecodecamp.org/always-end-your-questions-with-a-stack-overflow-bigquery-and-other-stories-2470ebcda7f)
 - [Catalog of references to StackOverflow questions found in GitHub sources ](https://github.com/sAbakumoff/SoCiting2)
 - [Using Artificial Intelligence to Write Self-Modifying/Improving Programs](http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/)
+- [Seminars on Applications of Deep Learning in Software Engineering and Programming Languages](https://sites.google.com/view/mlplse-sp18/)
 
 #### Software Metrics
 - [Halstead complexity measures](https://en.wikipedia.org/wiki/Halstead_complexity_measures)
