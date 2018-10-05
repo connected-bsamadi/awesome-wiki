@@ -81,6 +81,7 @@ A collection of awesome artificial intelligence goodies
 - [ai.codes](https://www.ai.codes/)
 - [neural_complete](https://github.com/kootenpv/neural_complete): a neural network trained to help writing neural network code using autocomplete
 - [CLAMS](https://mast-group.github.io/clams/)
+- [Semantic code search](https://experiments.github.com/semantic-code-search)
 
 #### Sentiment Analysis
 - [Sentiment analysis of commit comments in GitHub: an empirical study](https://dl.acm.org/citation.cfm?id=2597118)
