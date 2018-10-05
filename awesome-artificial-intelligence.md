@@ -49,6 +49,10 @@ A collection of awesome artificial intelligence goodies
 - [Using Artificial Intelligence to Write Self-Modifying/Improving Programs](http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/)
 - [Seminars on Applications of Deep Learning in Software Engineering and Programming Languages](https://sites.google.com/view/mlplse-sp18/)
 
+#### Datasets
+- [github_repos on Google BigQuery](https://bigquery.cloud.google.com/dataset/bigquery-public-data:github_repos)
+- [GH Archive](https://www.gharchive.org/)
+
 #### Software Metrics
 - [Halstead complexity measures](https://en.wikipedia.org/wiki/Halstead_complexity_measures)
 
