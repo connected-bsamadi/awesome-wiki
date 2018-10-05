@@ -35,6 +35,7 @@ A collection of awesome artificial intelligence goodies
 - [Natural Language Processing with Python](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
 
 ### Source Code as Data
+- [GitHub research, visualization and talks](https://www.gharchive.org/#resources)
 - [awesome machine learning on sourcecode](https://github.com/src-d/awesome-machine-learning-on-source-code)
 - [MAST](https://github.com/mast-group/)
 - [MUSE](https://www.darpa.mil/program/mining-and-understanding-software-enclaves)
