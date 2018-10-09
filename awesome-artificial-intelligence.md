@@ -50,6 +50,7 @@ A collection of awesome artificial intelligence goodies
 - [Using Artificial Intelligence to Write Self-Modifying/Improving Programs](http://www.primaryobjects.com/2013/01/27/using-artificial-intelligence-to-write-self-modifying-improving-programs/)
 - [Seminars on Applications of Deep Learning in Software Engineering and Programming Languages](https://sites.google.com/view/mlplse-sp18/)
 - [GitHub experiments](https://experiments.github.com/)
+- [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
 
 #### Datasets
 - [github_repos on Google BigQuery](https://bigquery.cloud.google.com/dataset/bigquery-public-data:github_repos)
