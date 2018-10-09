@@ -32,6 +32,7 @@ A collection of awesome artificial intelligence goodies
 ### [Natural Language Processing](https://github.com/connected-bsamadi/awesome-wiki/blob/master/awesome-natural-language-processing.md)
 
 ## Tools
+- [OpenDeep](http://www.opendeep.org)
 
  ### [TensorFlow](https://www.tensorflow.org/)
  - [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
