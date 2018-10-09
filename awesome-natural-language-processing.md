@@ -4,7 +4,12 @@
 - [Sequence-to-Sequence with Attention Model for Text Summarization](https://github.com/tensorflow/models/tree/master/research/textsum)
 - [Natural Language Processing with Python](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
 
-## Source Code as Data
+## Tools
+- [Natural Language Toolkit](https://www.nltk.org/)
+- [Keras Text Preprocessing](https://keras.io/preprocessing/text/)
+- [spaCy](https://spacy.io/)
+
+# Source Code Processing
 - [GitHub research, visualization and talks](https://www.gharchive.org/#resources)
 - [awesome machine learning on sourcecode](https://github.com/src-d/awesome-machine-learning-on-source-code)
 - [MAST](https://github.com/mast-group/)
