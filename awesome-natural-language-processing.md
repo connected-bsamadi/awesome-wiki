@@ -26,6 +26,7 @@
 - [Seminars on Applications of Deep Learning in Software Engineering and Programming Languages](https://sites.google.com/view/mlplse-sp18/)
 - [GitHub experiments](https://experiments.github.com/)
 - [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
+- [Example Check](http://web.cs.ucla.edu/~tianyi.zhang/examplecheck.html)
 
 ## Tools
 - [ast](https://docs.python.org/3/library/ast.html#module-ast)
