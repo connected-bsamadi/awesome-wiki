@@ -4,6 +4,9 @@
 - [Sequence-to-Sequence with Attention Model for Text Summarization](https://github.com/tensorflow/models/tree/master/research/textsum)
 - [Natural Language Processing with Python](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
 
+## Sequence to sequence
+- [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
+
 ## Tools
 - [Natural Language Toolkit](https://www.nltk.org/)
 - [Keras Text Preprocessing](https://keras.io/preprocessing/text/)
