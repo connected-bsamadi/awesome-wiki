@@ -8,6 +8,7 @@
 - [Natural Language Toolkit](https://www.nltk.org/)
 - [Keras Text Preprocessing](https://keras.io/preprocessing/text/)
 - [spaCy](https://spacy.io/)
+- [ktext](https://github.com/hamelsmu/ktext)
 
 # Source Code Processing
 - [GitHub research, visualization and talks](https://www.gharchive.org/#resources)
