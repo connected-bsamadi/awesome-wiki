@@ -55,6 +55,9 @@ Don’t Worry, You Can’t Break It. We Promise.
 ### [XGBoost](https://xgboost.ai/)
 - [An End-to-End Guide to Understand the Math behind XGBoost](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)
 
+### [Scala](https://www.scala-lang.org/)
+- [Top 15 Scala Libraries for Data Science in 2018](https://medium.com/activewizards-machine-learning-company/top-15-scala-libraries-for-data-science-in-2018-4b2cb5c5367e)
+
 ### [Kubernetes](https://kubernetes.io/)
 - [Kubeflow](https://www.kubeflow.org/)
 
