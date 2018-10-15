@@ -56,6 +56,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 
 ## [Scala](https://www.scala-lang.org/)
 - [Top 15 Scala Libraries for Data Science in 2018](https://medium.com/activewizards-machine-learning-company/top-15-scala-libraries-for-data-science-in-2018-4b2cb5c5367e)
+- [Keynote: The Last Hope for Scala's Infinity War - John A. De Goes](https://www.youtube.com/watch?v=v8IQ-X2HkGE)
 
 ## [Kubernetes](https://kubernetes.io/)
 - [Kubeflow](https://www.kubeflow.org/)
@@ -87,6 +88,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Rapids.ai](http://rapids.ai/)
 - [H2O](https://www.h2o.ai/)
 - [Algorithmia](https://algorithmia.com/)
+- [Seldon](https://www.seldon.io/)
 - [Anaconda Enterprise](https://www.anaconda.com/enterprise/)
 - [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
 - [Azure Machine Learning](https://azure.microsoft.com/en-ca/overview/machine-learning/)
