@@ -62,6 +62,8 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Kubeflow](https://www.kubeflow.org/)
 - [Introduction to Kubeflow on Google Kubernetes Engine](https://codelabs.developers.google.com/codelabs/kubeflow-introduction/#0)
 - [Deploying a containerized web application](https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app)
+- [Polyaxon, Argo and Seldon for model training, package and deployment in Kubernetes](https://danielfrg.com/blog/2018/10/model-management-polyaxon-argo-seldon/)
+
 
 ## [Dask](https://dask.org/)
 
