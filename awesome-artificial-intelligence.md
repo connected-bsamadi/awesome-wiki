@@ -59,6 +59,9 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Keynote: The Last Hope for Scala's Infinity War - John A. De Goes](https://www.youtube.com/watch?v=v8IQ-X2HkGE)
 - [Sean Glover](https://docs.google.com/document/d/1yz9xtABfyRei2wTj--HMeV9DUOgx_BMw6kLgIBjgDME/edit)
 
+## [Apache Spark MLlib](https://spark.apache.org/mllib/)
+- [Databricks courses](https://academy.databricks.com/)
+
 ## [Kubernetes](https://kubernetes.io/)
 - [Kubeflow](https://www.kubeflow.org/)
 - [Introduction to Kubeflow on Google Kubernetes Engine](https://codelabs.developers.google.com/codelabs/kubeflow-introduction/#0)
