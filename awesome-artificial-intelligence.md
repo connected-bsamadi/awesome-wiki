@@ -70,6 +70,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Cloud Native Computing Foundation](https://www.cncf.io/)
 - [Juju k8s-tf-demo](https://jujucharms.com/u/cmars/k8s-tf-demo/)
 - [ksonnet](https://ksonnet.io/)
+- [Continuously Train & Deploy Spark ML and Tensorflow AI Models from Jupyter Notebook to Production](https://www.youtube.com/watch?v=swiPWUxBvSc)
 
 ## [Dask](https://dask.org/)
 
