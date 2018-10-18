@@ -57,6 +57,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 ## [Scala](https://www.scala-lang.org/)
 - [Top 15 Scala Libraries for Data Science in 2018](https://medium.com/activewizards-machine-learning-company/top-15-scala-libraries-for-data-science-in-2018-4b2cb5c5367e)
 - [Keynote: The Last Hope for Scala's Infinity War - John A. De Goes](https://www.youtube.com/watch?v=v8IQ-X2HkGE)
+- [Sean Glover](https://docs.google.com/document/d/1yz9xtABfyRei2wTj--HMeV9DUOgx_BMw6kLgIBjgDME/edit)
 
 ## [Kubernetes](https://kubernetes.io/)
 - [Kubeflow](https://www.kubeflow.org/)
