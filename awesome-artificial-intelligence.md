@@ -71,6 +71,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Juju k8s-tf-demo](https://jujucharms.com/u/cmars/k8s-tf-demo/)
 - [ksonnet](https://ksonnet.io/)
 - [Continuously Train & Deploy Spark ML and Tensorflow AI Models from Jupyter Notebook to Production](https://www.youtube.com/watch?v=swiPWUxBvSc)
+- [Kubeflow on EKS](https://aws.amazon.com/blogs/opensource/kubeflow-amazon-eks/)
 
 ## [Dask](https://dask.org/)
 
