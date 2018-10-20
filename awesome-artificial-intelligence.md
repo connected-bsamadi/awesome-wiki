@@ -74,6 +74,10 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Continuously Train & Deploy Spark ML and Tensorflow AI Models from Jupyter Notebook to Production](https://www.youtube.com/watch?v=swiPWUxBvSc)
 - [Kubeflow on EKS](https://aws.amazon.com/blogs/opensource/kubeflow-amazon-eks/)
 
+## Cloud Foundry
+- [Data Science on Cloud Foundry](http://datascienceoncloudfoundry.com/)
+- [Data Science How-To: Text Analytics-as-a-Service](https://content.pivotal.io/blog/data-science-how-to-text-analytics-as-a-service)
+
 ## [Dask](https://dask.org/)
 
 ## [Graphistry](https://www.graphistry.com/)
