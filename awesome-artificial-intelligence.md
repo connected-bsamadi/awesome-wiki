@@ -77,6 +77,8 @@ Don’t Worry, You Can’t Break It. We Promise.
 ## Cloud Foundry
 - [Data Science on Cloud Foundry](http://datascienceoncloudfoundry.com/)
 - [Data Science How-To: Text Analytics-as-a-Service](https://content.pivotal.io/blog/data-science-how-to-text-analytics-as-a-service)
+- [Car diagnostic API](https://www.cloudfoundry.org/the-foundry/car-diagnostic-api/)
+- [Portfolio Optimization](https://www.cloudfoundry.org/the-foundry/portfolio-optimization/)
 
 ## [Dask](https://dask.org/)
 
