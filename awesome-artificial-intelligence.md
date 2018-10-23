@@ -66,7 +66,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Real time sentiment analysis of twitter hashtags with Spark](https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585)
 - [Productionizing Spark ML pipelines with the portable format for analytics](https://www.youtube.com/watch?v=h-B0VCkoRkE)
 
-### [Databricks]()
+### [Databricks](https://databricks.com/)
 - [Introduction to Databricks](https://www.youtube.com/watch?v=WaxMj5_SLUI)
 - [Databricks Delta: A Unified Management System for Real-time Big Data](https://www.youtube.com/watch?v=gg-lEJ4sBaA)
 - [Real-Time Data Pipelines Made Easy with Structured Streaming in Apache Spark](https://www.youtube.com/watch?v=wQfm4P23Hew)
