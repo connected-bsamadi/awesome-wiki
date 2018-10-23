@@ -65,6 +65,11 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Analytics for Apache Spark](https://console.bluemix.net/docs/services/AnalyticsforApacheSpark)
 - [Real time sentiment analysis of twitter hashtags with Spark](https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585)
 
+### [Databricks]()
+- [Introduction to Databricks](https://www.youtube.com/watch?v=WaxMj5_SLUI)
+- [Databricks Delta: A Unified Management System for Real-time Big Data](https://www.youtube.com/watch?v=gg-lEJ4sBaA)
+- [Real-Time Data Pipelines Made Easy with Structured Streaming in Apache Spark](https://www.youtube.com/watch?v=wQfm4P23Hew)
+
 ## [Kubernetes](https://kubernetes.io/)
 - [Start from here!](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)
 - [Kubeflow](https://www.kubeflow.org/)
