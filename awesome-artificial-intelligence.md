@@ -84,6 +84,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Linear Regression](https://github.com/datitran/PySpark-App-CF/blob/master/linear_regression.ipynb)
 - [PySpark App CF](https://github.com/datitran/PySpark-App-CF)
 - [PySpark buildpack](https://github.com/andreasf/pyspark-buildpack)
+- [Python buildpack](https://github.com/cloudfoundry/python-buildpack)
 
 ## [Dask](https://dask.org/)
 
