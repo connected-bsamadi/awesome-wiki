@@ -138,6 +138,8 @@ Don’t Worry, You Can’t Break It. We Promise.
 # Model exchange
 - [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html)
 - [PFA](http://dmg.org/pfa/index.html)
+- [ONNX](https://onnx.ai/)
+- [CoreML](https://developer.apple.com/documentation/coreml)
 
 # Platforms
 - [FloydHub](https://www.floydhub.com/)
