@@ -62,6 +62,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 ## [Apache Spark MLlib](https://spark.apache.org/mllib/)
 - [Databricks courses](https://academy.databricks.com/)
 - [PySpark Uploader](https://github.com/scottcode/pyspark-uploader)
+- [Analytics for Apache Spark](https://console.bluemix.net/docs/services/AnalyticsforApacheSpark)
 
 ## [Kubernetes](https://kubernetes.io/)
 - [Start from here!](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)
