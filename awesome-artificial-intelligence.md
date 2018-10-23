@@ -63,6 +63,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Databricks courses](https://academy.databricks.com/)
 - [PySpark Uploader](https://github.com/scottcode/pyspark-uploader)
 - [Analytics for Apache Spark](https://console.bluemix.net/docs/services/AnalyticsforApacheSpark)
+- [Real time sentiment analysis of twitter hashtags with Spark](https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585)
 
 ## [Kubernetes](https://kubernetes.io/)
 - [Start from here!](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)
