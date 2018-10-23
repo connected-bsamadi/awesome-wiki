@@ -79,6 +79,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Data Science How-To: Text Analytics-as-a-Service](https://content.pivotal.io/blog/data-science-how-to-text-analytics-as-a-service)
 - [Car diagnostic API](https://www.cloudfoundry.org/the-foundry/car-diagnostic-api/)
 - [Portfolio Optimization](https://www.cloudfoundry.org/the-foundry/portfolio-optimization/)
+- [Operationalizing PySpark Data Science Models on Pivotal Cloud Foundry](https://content.pivotal.io/blog/operationalizing-pyspark-data-science-models-on-pivotal-cloud-foundry)
 
 ## [Dask](https://dask.org/)
 
