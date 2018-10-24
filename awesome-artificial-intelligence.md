@@ -65,6 +65,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Analytics for Apache Spark](https://console.bluemix.net/docs/services/AnalyticsforApacheSpark)
 - [Real time sentiment analysis of twitter hashtags with Spark](https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585)
 - [Productionizing Spark ML pipelines with the portable format for analytics](https://www.youtube.com/watch?v=h-B0VCkoRkE)
+- [Spark Bench](https://codait.github.io/spark-bench/)
 
 ### [Databricks](https://databricks.com/)
 - [Introduction to Databricks](https://www.youtube.com/watch?v=WaxMj5_SLUI)
@@ -82,6 +83,11 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [ksonnet](https://ksonnet.io/)
 - [Continuously Train & Deploy Spark ML and Tensorflow AI Models from Jupyter Notebook to Production](https://www.youtube.com/watch?v=swiPWUxBvSc)
 - [Kubeflow on EKS](https://aws.amazon.com/blogs/opensource/kubeflow-amazon-eks/)
+
+## [FfDL](https://github.com/IBM/FfDL)
+- [Deploy and use a multi-framework deep learning platform on Kubernetes](https://developer.ibm.com/patterns/deploy-and-use-a-multi-framework-deep-learning-platform-on-kubernetes/)
+- [Serve it hot! Deploy your FfDL trained models using Seldon](https://developer.ibm.com/code/2018/06/12/serve-it-hot-deploy-your-ffdl-trained-models-using-seldon/)
+- [IBM CODAIT - Center for Open-source Data & AI Technologies](https://github.com/CODAIT)
 
 ## Cloud Foundry
 - [Data Science on Cloud Foundry](http://datascienceoncloudfoundry.com/)
