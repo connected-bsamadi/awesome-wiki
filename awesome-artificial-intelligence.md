@@ -89,6 +89,9 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Serve it hot! Deploy your FfDL trained models using Seldon](https://developer.ibm.com/code/2018/06/12/serve-it-hot-deploy-your-ffdl-trained-models-using-seldon/)
 - [IBM CODAIT - Center for Open-source Data & AI Technologies](https://github.com/CODAIT)
 
+## [Jupyter]
+- [Zero to JupyterHub with Kubernetes](https://z2jh.jupyter.org/en/stable/)
+
 ## Cloud Foundry
 - [Data Science on Cloud Foundry](http://datascienceoncloudfoundry.com/)
 - [Data Science How-To: Text Analytics-as-a-Service](https://content.pivotal.io/blog/data-science-how-to-text-analytics-as-a-service)
