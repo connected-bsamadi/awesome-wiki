@@ -162,3 +162,6 @@ Don’t Worry, You Can’t Break It. We Promise.
 
 # Research
 - [BAIR](https://bair.berkeley.edu/)
+
+# Companies
+- [AI in UK Report 2018](https://www.dka.global/ai-in-uk-report)
