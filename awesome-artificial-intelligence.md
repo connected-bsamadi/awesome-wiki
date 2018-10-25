@@ -149,6 +149,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html)
 - [PFA](http://dmg.org/pfa/index.html)
   - [Portable Format for Analytics: moving models to production](https://www.kdnuggets.com/2016/01/portable-format-analytics-models-production.html)
+  - [Aardpfark](https://github.com/CODAIT/aardpfark)
 - [ONNX](https://onnx.ai/)
 - [CoreML](https://developer.apple.com/documentation/coreml)
 
