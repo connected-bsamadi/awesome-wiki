@@ -27,6 +27,7 @@ A collection of awesome artificial intelligence goodies
 -   [Deep Learning](http://www.deeplearningbook.org/)
 
 # Applications
+- [Project ideas](https://github.com/NirantK/awesome-project-ideas)
 
 ## [Natural Language Processing](https://github.com/connected-bsamadi/awesome-wiki/blob/master/awesome-natural-language-processing.md)
 
