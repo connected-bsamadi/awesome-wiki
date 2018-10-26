@@ -76,6 +76,9 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Databricks Delta: A Unified Management System for Real-time Big Data](https://www.youtube.com/watch?v=gg-lEJ4sBaA)
 - [Real-Time Data Pipelines Made Easy with Structured Streaming in Apache Spark](https://www.youtube.com/watch?v=wQfm4P23Hew)
 
+### Courses
+- [Advanced Spark streaming with MLeap](https://www.linkedin.com/learning/extending-hadoop-for-data-science-streaming-spark-storm-and-kafka/advanced-spark-streaming-with-mleap)
+
 ## [Kubernetes](https://kubernetes.io/)
 - [Start from here!](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)
 - [Kubeflow](https://www.kubeflow.org/)
