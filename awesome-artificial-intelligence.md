@@ -43,6 +43,7 @@ A collection of awesome artificial intelligence goodies
  - [TensorFlow Playground](https://playground.tensorflow.org/): Tinker With a Neural Network Right Here in Your Browser.
 Don’t Worry, You Can’t Break It. We Promise.
  - [Deep Learning Development with Google Colab, TensorFlow, Keras & PyTorch](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html)
+ - [Image Classification using Flowers dataset](https://cloud.google.com/ml-engine/docs/tensorflow/flowers-tutorial)
  
  ## [Keras](https://keras.io/)
  - [Awesome Keras](https://github.com/soumendra/awesome-keras)
