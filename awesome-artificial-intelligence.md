@@ -69,6 +69,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Real time sentiment analysis of twitter hashtags with Spark](https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585)
 - [Productionizing Spark ML pipelines with the portable format for analytics](https://www.youtube.com/watch?v=h-B0VCkoRkE)
 - [Spark Bench](https://codait.github.io/spark-bench/)
+- [Sentiment Analysis of Twitter Hashtags With Spark](https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585)
 
 ### [Databricks](https://databricks.com/)
 - [Introduction to Databricks](https://www.youtube.com/watch?v=WaxMj5_SLUI)
