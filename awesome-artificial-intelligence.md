@@ -75,6 +75,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Introduction to Databricks](https://www.youtube.com/watch?v=WaxMj5_SLUI)
 - [Databricks Delta: A Unified Management System for Real-time Big Data](https://www.youtube.com/watch?v=gg-lEJ4sBaA)
 - [Real-Time Data Pipelines Made Easy with Structured Streaming in Apache Spark](https://www.youtube.com/watch?v=wQfm4P23Hew)
+- [Databricks Community](https://community.cloud.databricks.com)
 
 ### Courses
 - [Advanced Spark streaming with MLeap](https://www.linkedin.com/learning/extending-hadoop-for-data-science-streaming-spark-storm-and-kafka/advanced-spark-streaming-with-mleap)
