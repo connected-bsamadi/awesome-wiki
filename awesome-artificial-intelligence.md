@@ -53,7 +53,11 @@ Don’t Worry, You Can’t Break It. We Promise.
 ## [Google Colab](https://colab.research.google.com/)
  - [How to run object detection and segmentation on video fast for free](https://www.dlology.com/blog/how-to-run-object-detection-and-segmentation-on-video-fast-for-free/)
  - [Quick guide to run TensorBoard in Google Colab](https://www.dlology.com/blog/quick-guide-to-run-tensorboard-in-google-colab/)
- 
+
+## Jupyter
+- [JupyterHub in Classrooms](https://github.com/GoogleCloudPlatform/gke-jupyter-classroom)
+- [Dockerized Jupyterhub Deep Learning Notebooks with GPU Access](https://datadrivendesign.wordpress.com/2017/10/16/dockerized-jupyterhub-deep-learning-notebooks-with-gpu-access-tensorflow-1-3-cudnn-6-0-cuda-8-0/)
+
 ## [XGBoost](https://xgboost.ai/)
 - [An End-to-End Guide to Understand the Math behind XGBoost](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)
 
