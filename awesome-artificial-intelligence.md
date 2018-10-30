@@ -97,6 +97,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [ksonnet](https://ksonnet.io/)
 - [Continuously Train & Deploy Spark ML and Tensorflow AI Models from Jupyter Notebook to Production](https://www.youtube.com/watch?v=swiPWUxBvSc)
 - [Kubeflow on EKS](https://aws.amazon.com/blogs/opensource/kubeflow-amazon-eks/)
+- [Kubeflow labs on Azure](https://github.com/Azure/kubeflow-labs)
 
 ## [FfDL](https://github.com/IBM/FfDL)
 - [Deploy and use a multi-framework deep learning platform on Kubernetes](https://developer.ibm.com/patterns/deploy-and-use-a-multi-framework-deep-learning-platform-on-kubernetes/)
