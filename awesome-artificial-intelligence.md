@@ -76,12 +76,16 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Productionizing Spark ML pipelines with the portable format for analytics](https://www.youtube.com/watch?v=h-B0VCkoRkE)
 - [Spark Bench](https://codait.github.io/spark-bench/)
 - [Sentiment Analysis of Twitter Hashtags With Spark](https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585)
+- [Building A Linear Regression with PySpark and MLlib](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
 
 ### [Databricks](https://databricks.com/)
 - [Introduction to Databricks](https://www.youtube.com/watch?v=WaxMj5_SLUI)
 - [Databricks Delta: A Unified Management System for Real-time Big Data](https://www.youtube.com/watch?v=gg-lEJ4sBaA)
 - [Real-Time Data Pipelines Made Easy with Structured Streaming in Apache Spark](https://www.youtube.com/watch?v=wQfm4P23Hew)
 - [Databricks Community](https://community.cloud.databricks.com)
+
+### MLeap
+- [MLeap documentation](http://mleap-docs.combust.ml/)
 
 ### Courses
 - [Advanced Spark streaming with MLeap](https://www.linkedin.com/learning/extending-hadoop-for-data-science-streaming-spark-storm-and-kafka/advanced-spark-streaming-with-mleap)
@@ -178,6 +182,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Fleet maintenance](https://catalog.data.gov/dataset/fleet-maintenance)
 - [Google Genomics Public Dataset](https://cloud.google.com/genomics/docs/public-datasets/)
 - [Google Sample Datasets](https://cloud.google.com/bigquery/sample-tables)
+- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 
 
 # Research
