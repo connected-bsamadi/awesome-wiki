@@ -77,6 +77,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Spark Bench](https://codait.github.io/spark-bench/)
 - [Sentiment Analysis of Twitter Hashtags With Spark](https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585)
 - [Building A Linear Regression with PySpark and MLlib](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
+- [Spark TensorFlow Example](https://github.com/GoogleCloudPlatform/cloud-dataproc/tree/master/spark-tensorflow)
 
 ### [Databricks](https://databricks.com/)
 - [Introduction to Databricks](https://www.youtube.com/watch?v=WaxMj5_SLUI)
