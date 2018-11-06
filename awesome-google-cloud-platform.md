@@ -5,6 +5,7 @@
 - [GCP YouTube Channel](https://www.youtube.com/user/googlecloudplatform)
 - [GCP on GitHub](https://github.com/GoogleCloudPlatform)
 - [Google Cloud Codelabs and Challenges](https://codelabs.developers.google.com/cloud)
+- [Jupyter FS in Google Cloud Storage](https://github.com/src-d/jgscm)
 
 ## Analytics and Machine Learning
 - [Getting Started](https://cloud.google.com/ml-engine/docs/tensorflow/getting-started-training-prediction)
@@ -21,3 +22,6 @@
   - [github_repo example](https://github.com/eh2699/Kaggle-SQL-Scavenger-Hunt/blob/9b365697ddfdf911e25d70185c81eb2849b5fb03/kaggle_day5_github_repos.ipynb)
   - [bq_helper](https://github.com/SohierDane/BigQuery_Helper)
   - [Introduction to bq_helper](https://www.kaggle.com/sohier/introduction-to-the-bq-helper-package)
+
+## Google Dataproc
+- [Optional Components](https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/optional-components)
