@@ -22,6 +22,7 @@
   - [github_repo example](https://github.com/eh2699/Kaggle-SQL-Scavenger-Hunt/blob/9b365697ddfdf911e25d70185c81eb2849b5fb03/kaggle_day5_github_repos.ipynb)
   - [bq_helper](https://github.com/SohierDane/BigQuery_Helper)
   - [Introduction to bq_helper](https://www.kaggle.com/sohier/introduction-to-the-bq-helper-package)
+  - [How moving from Pub/Sub to AVRO saved us $38,976/year](https://lugassy.net/how-moving-from-pub-sub-to-avro-saved-us-38-976-year-ec6c33ea7d08)
 
 ## Google Dataproc
 - [Optional Components](https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/optional-components)
