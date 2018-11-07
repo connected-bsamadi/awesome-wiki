@@ -86,7 +86,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Real-Time Data Pipelines Made Easy with Structured Streaming in Apache Spark](https://www.youtube.com/watch?v=wQfm4P23Hew)
 - [Databricks Community](https://community.cloud.databricks.com)
 
-### 
+### Java
 - [Search Maven packages](https://search.maven.org)
 ### MLeap
 - [MLeap documentation](http://mleap-docs.combust.ml/)
