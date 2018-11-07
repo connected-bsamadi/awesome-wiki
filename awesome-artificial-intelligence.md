@@ -78,6 +78,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Sentiment Analysis of Twitter Hashtags With Spark](https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585)
 - [Building A Linear Regression with PySpark and MLlib](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
 - [Spark TensorFlow Example](https://github.com/GoogleCloudPlatform/cloud-dataproc/tree/master/spark-tensorflow)
+- [Pandas vs Spark](https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d)
 
 ### [Databricks](https://databricks.com/)
 - [Introduction to Databricks](https://www.youtube.com/watch?v=WaxMj5_SLUI)
@@ -87,6 +88,8 @@ Don’t Worry, You Can’t Break It. We Promise.
 
 ### MLeap
 - [MLeap documentation](http://mleap-docs.combust.ml/)
+- [MLeap Benchmark](https://github.com/combust/mleap/tree/master/mleap-benchmark)
+- [MLeap demo](https://github.com/combust/mleap-demo)
 
 ### Courses
 - [Advanced Spark streaming with MLeap](https://www.linkedin.com/learning/extending-hadoop-for-data-science-streaming-spark-storm-and-kafka/advanced-spark-streaming-with-mleap)
