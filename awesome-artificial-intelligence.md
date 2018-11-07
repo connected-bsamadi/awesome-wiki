@@ -45,7 +45,8 @@ A collection of awesome artificial intelligence goodies
 Don’t Worry, You Can’t Break It. We Promise.
  - [Deep Learning Development with Google Colab, TensorFlow, Keras & PyTorch](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html)
  - [Image Classification using Flowers dataset](https://cloud.google.com/ml-engine/docs/tensorflow/flowers-tutorial)
- 
+ - [Troubleshooting a TensorFlow Predictive Model Microservice with Weave Cloud](https://www.weave.works/blog/troubleshooting-a-tensorflow-predictive-model-microservice-with-weave-cloud)
+
  ## [Keras](https://keras.io/)
  - [Awesome Keras](https://github.com/soumendra/awesome-keras)
  - [Keras Resources](https://github.com/fchollet/keras-resources)
@@ -88,6 +89,8 @@ Don’t Worry, You Can’t Break It. We Promise.
 
 ### Java
 - [Search Maven packages](https://search.maven.org)
+- [Jupyter Spark 117 - jar files](https://github.com/elgalu/jupyter-spark-117)
+
 ### MLeap
 - [MLeap documentation](http://mleap-docs.combust.ml/)
 - [MLeap Benchmark](https://github.com/combust/mleap/tree/master/mleap-benchmark)
