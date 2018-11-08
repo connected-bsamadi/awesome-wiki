@@ -35,6 +35,7 @@ A collection of awesome artificial intelligence goodies
 
 # Tools
 - [OpenDeep](http://www.opendeep.org)
+- [Small survey on ML tools](https://github.com/szilard/survey-ml-tools)
 
  ## [TensorFlow](https://www.tensorflow.org/)
  - [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
@@ -173,6 +174,9 @@ Don’t Worry, You Can’t Break It. We Promise.
 
 ## TensorFlow
 - [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](http://stevenwhang.com/tfx_paper.pdf)
+
+# Benchmarks
+- [Simple/limited/incomplete benchmark for scalability, speed and accuracy of machine learning libraries for classification](https://github.com/szilard/benchm-ml)
 
 # Model exchange
 - [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html)
