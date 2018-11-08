@@ -6,6 +6,7 @@ A collection of awesome artificial intelligence goodies
 - [Fast.ai](http://wiki.fast.ai/index.php/Main_Page)
 - [Deep Learning From Scratch: Theory and Implementation](http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/)
 - [Cheat sheets for AI, neural networks, machine learning, deep learning and big data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+- [Resources for learning statistics and machine learning](https://sgfin.github.io/learning-resources/)
 
 # Podcast
 - [Andrew Ng: Influential leader in artificial intelligence](https://behindthetech.libsynpro.com/003-andrew-ng-influential-leader-in-artificial-intelligence)
