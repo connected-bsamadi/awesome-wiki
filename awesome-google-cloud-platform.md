@@ -28,3 +28,4 @@
 - [Optional Components](https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/optional-components)
 - [Moving Data with Apache Sqoop in Google Cloud Dataproc](https://medium.com/google-cloud/moving-data-with-apache-sqoop-in-google-cloud-dataproc-4056b8fa2600)
 - [From Kafka to BigQuery with Spark (on Dataproc) in Scala](https://tech.travelaudience.com/from-kafka-to-bigquery-with-spark-on-dataproc-in-scala-49c81756e291)
+- [Dataproc Versions](https://cloud.google.com/dataproc/docs/concepts/versioning/dataproc-versions)

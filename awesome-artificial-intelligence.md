@@ -81,7 +81,10 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Sentiment Analysis of Twitter Hashtags With Spark](https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585)
 - [Building A Linear Regression with PySpark and MLlib](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
 - [Spark TensorFlow Example](https://github.com/GoogleCloudPlatform/cloud-dataproc/tree/master/spark-tensorflow)
+- [spark-tensorflow-connector](https://github.com/tensorflow/ecosystem/tree/master/spark/spark-tensorflow-connector)
 - [Pandas vs Spark](https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d)
+- [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
+- [Dataproc cluster with Datalab and the Google Python Client API](https://codelabs.developers.google.com/codelabs/cpb102-dataproc-with-gcp)
 
 ### [Databricks](https://databricks.com/)
 - [Introduction to Databricks](https://www.youtube.com/watch?v=WaxMj5_SLUI)
