@@ -85,6 +85,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [Pandas vs Spark](https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d)
 - [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
 - [Dataproc cluster with Datalab and the Google Python Client API](https://codelabs.developers.google.com/codelabs/cpb102-dataproc-with-gcp)
+- [Spark Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf)
 
 ### [Databricks](https://databricks.com/)
 - [Introduction to Databricks](https://www.youtube.com/watch?v=WaxMj5_SLUI)
