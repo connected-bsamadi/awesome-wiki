@@ -100,6 +100,7 @@ Don’t Worry, You Can’t Break It. We Promise.
 - [MLeap documentation](http://mleap-docs.combust.ml/)
 - [MLeap Benchmark](https://github.com/combust/mleap/tree/master/mleap-benchmark)
 - [MLeap demo](https://github.com/combust/mleap-demo)
+- [Mleap deploy Spark ML pipelines to production API servers](https://www.slideshare.net/Hadoop_Summit/mleap-deploy-spark-ml-pipelines-to-production-api-servers)
 
 ### Courses
 - [Advanced Spark streaming with MLeap](https://www.linkedin.com/learning/extending-hadoop-for-data-science-streaming-spark-storm-and-kafka/advanced-spark-streaming-with-mleap)
