@@ -12,7 +12,7 @@ A collection of awesome artificial intelligence goodies
 - [Andrew Ng: Influential leader in artificial intelligence](https://behindthetech.libsynpro.com/003-andrew-ng-influential-leader-in-artificial-intelligence)
 - [Integrate.ai](https://www.integrate.ai/podcast/)
 
-# Courses
+# eLearning
 - [Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 - [Coursera: Machine Learning by Andrew Ng](https://www.youtube.com/watch?v=qeHZOdmJvFU&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
 - [Stanford CS229: Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
@@ -22,6 +22,7 @@ A collection of awesome artificial intelligence goodies
 - [Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
 - [Machine Learning Tutorials](https://pythonprogramming.net/machine-learning-tutorials/)
 - [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
+- [Google AI Education](https://ai.google/education/)
 
 # Books
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)
